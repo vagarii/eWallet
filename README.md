@@ -19,7 +19,6 @@ To run:
 ```
 node server/index.js
 
-See on Heroku:
-```
+#### See on Heroku
 https://guarded-wave-88578.herokuapp.com
 
